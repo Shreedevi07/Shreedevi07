@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="./96fe5414917f2c68e2fd42982c2dfcf2.jpg"
+       alt="The Starry Night by Vincent van Gogh"
+       width="100%">
+</p>
+
 # Hey, I'm Shreedevi! 👋
 
 ### Computer Science Engineering Student
