@@ -1,4 +1,18 @@
-## Hi there 👋
+
+# Hey, I'm Shreedevi! 👋
+
+### Computer Science Engineering Student
+
+I enjoy building web applications, exploring new technologies,
+and turning ideas into working projects.
+
+- 💻 Interested in web development and software engineering
+- 🌱 Currently learning Java, DSA, and backend development
+- 🚀 Building projects and exploring open source
+
+### 🐍 My Contributions
+
+<!-- Contribution snake will go here -->
 
 <!--
 **Shreedevi07/Shreedevi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
