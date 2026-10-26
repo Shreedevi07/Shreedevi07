@@ -1,8 +1,9 @@
 
 <p align="center">
-  <img src="./96fe5414917f2c68e2fd42982c2dfcf2.jpg"
+  <img src="./Starry-Night.jpg"
        alt="The Starry Night by Vincent van Gogh"
-       width="100%">
+       width="100%"
+       height="250">
 </p>
 
 # Hey, I'm Shreedevi! 👋
@@ -16,7 +17,7 @@ and turning ideas into working projects.
 - 🌱 Currently learning Java, DSA, and backend development
 - 🚀 Building projects and exploring open source
 
-### 🐍 My Contributions
+### 🐬 My Contributions
 
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Shreedevi07/Shreedevi07/output/github-snake.svg)
