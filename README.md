@@ -12,7 +12,8 @@ and turning ideas into working projects.
 
 ### 🐍 My Contributions
 
-<!-- Contribution snake will go here -->
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Shreedevi07/Shreedevi07/output/github-snake.svg)
 
 <!--
 **Shreedevi07/Shreedevi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
